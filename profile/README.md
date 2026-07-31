@@ -1,6 +1,10 @@
-# Duete Solutions
+<p align="center">
+  <img src="./assets/logo.svg" alt="Duete Solutions" width="120" />
+</p>
 
-**Digital presence for small businesses and local professionals.**
+<h1 align="center">Duete Solutions</h1>
+
+<p align="center"><strong>Digital presence for small businesses and local professionals.</strong></p>
 
 We help people who run their own business show up well online: a website, a
 visual identity, and the tools that take manual work out of the day-to-day.
